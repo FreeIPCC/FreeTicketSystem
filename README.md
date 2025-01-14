@@ -1,4 +1,4 @@
-工单系统，工单，系统，客服，客服系统，Ticket System,Work Order，工单流转，坐席辅助，大模型，人工智能,Call Center,Contact Center,Agent Assist,Operation,AI,Chabot,FreeSWITCH,WebRTC,LangChain,RAG,Robot,Customer Service！！！！！！
+工单系统，工单，系统，客服，客服系统，Ticket System,Work Order，工单流转，坐席辅助，大模型，人工智能,Call Center,Contact Center,Agent Assist,Operation,AI,Chabot,FreeSWITCH,WebRTC,LangChain,RAG,Robot,Customer Service！
 
 ## 😄完整性:前端、后端、数据库，齐全！
 ## 😄持续性:2014年至今持续迭代
@@ -6,7 +6,7 @@ FreeIPCC致力于成为：
 1，大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；
 2，开源呼叫中心系统、开源客服系统；
 3，视频呼叫中心系统、视频客服系统；
-4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！！！！
+4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
 ## - 📫 How to reach us 📫:
 - 官方WeChat:freeipcc
