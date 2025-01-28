@@ -1,4 +1,4 @@
-工单系统，工单，系统，客服，客服系统，Ticket System,Work Order，工单流转，坐席辅助，大模型，人工智能,Call Center,Contact Center,Agent Assist,Operation,AI,Chabot,FreeSWITCH,WebRTC,LangChain,RAG,Robot,Customer Service！
+工单系统，工单，系统，客服，客服系统，Ticket System,Work Order，工单流转，坐席辅助，大模型，人工智能,Call Center,Contact Center,Agent Assist,Operation,AI,Chabot,FreeSWITCH,WebRTC,LangChain,RAG,Robot,Customer Service！！！
 
 ## 😄完整性:前端、后端、数据库，齐全！
 ## 😄持续性:2014年至今持续迭代
@@ -14,7 +14,7 @@ FreeIPCC致力于成为：
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.01.27最新demo链接enjoy😄：
+## 2025.01.28最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
@@ -54,7 +54,7 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
 ## 😄关于源码、付费、许可（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）：
-付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
+付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
 
 ## 其它语言
 英语
