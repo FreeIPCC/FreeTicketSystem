@@ -1,5 +1,5 @@
 # FreeTicketSystem 工单系统
-工单系统，工单，系统，客服，客服系统，Ticket System,Work Order，工单流转，坐席辅助，大模型，人工智能,Call Center,Contact Center,Agent Assist,Operation,AI,Chabot,FreeSWITCH,WebRTC,LangChain,RAG,Robot,Customer Service!!!!!!!
+工单系统，工单，系统，客服，客服系统，Ticket System,Work Order，工单流转，坐席辅助，大模型，人工智能,Call Center,Contact Center,Agent Assist,Operation,AI,Chabot,FreeSWITCH,WebRTC,LangChain,RAG,Robot,Customer Service!
 
 ## 😄完整性：前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
@@ -96,4 +96,4 @@ After purchasing the source code, you can use it for personal or commercial purp
 ![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
 ![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
 
-# 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
+# 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
