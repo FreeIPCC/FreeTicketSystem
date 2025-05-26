@@ -17,7 +17,7 @@ FreeIPCC致力于成为：
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.05.25，最新demo链接enjoy😄：
+## 2025.05.26，最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
@@ -71,6 +71,7 @@ http://124.220.48.38:80
 下图是随机抽取的需求对接的群：
 
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
+![image](https://github.com/user-attachments/assets/689e1bef-09df-49b8-936c-edd22cd15ab3)
 
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
