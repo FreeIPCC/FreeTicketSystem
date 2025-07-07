@@ -1,5 +1,5 @@
 # FreeTicketSystem 工单系统
-工单系统，工单，系统，客服，客服系统，Ticket System,Work Order，工单流转，坐席辅助，大模型，人工智能,Call Center,Contact Center,Agent Assist,Operation,AI,Chabot,FreeSWITCH,WebRTC,LangChain,RAG,Robot,Customer Service!!!!!!!!
+工单系统，工单，系统，客服，客服系统，Ticket System,Work Order，工单流转，坐席辅助，大模型，人工智能,Call Center,Contact Center,Agent Assist,Operation,AI,Chabot,FreeSWITCH,WebRTC,LangChain,RAG,Robot,Customer Service!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
@@ -33,7 +33,7 @@ FreeIPCC致力于成为：
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com 
 
-## 2025.07.05，最新demo链接enjoy😄：
+## 2025.07.07，最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
